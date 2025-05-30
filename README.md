@@ -69,3 +69,18 @@ Algo de lo que he hecho...
     </td>
   </tr>
 </table>
+
+
+# Dominio en las arquitecturas de
+
+- SCRUM ♻️
+- CASCADA 🚿
+- EXTREME PROGRAMING 🔥🔥🔥🔥👻👻
+
+
+# Con Certificados de 
+- ciberseguridad
+- scrum
+- java
+- arduino
+- Machin learning 
